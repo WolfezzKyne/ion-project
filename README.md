@@ -1,5 +1,5 @@
 # What is "The Ion Project"?
-*The Ion Project* is a project containing **Proton**, **Neutron**, **Electron** and **Photon**. These are created using *Skript 2.2* and *skQuery* only, I try to stay away from other addons.
+*The Ion Project* is a project containing **Proton**, **Neutron**, **Electron** and **Photon**. These are created using *Skript 2.2* and *skQuery* only, Vexio tried to stay away from other addons so we do the same. 
 
 ## What are some of the features?
 Ion is a recreation of **Essentials**, within Skript 2.2 & skQuery. It contains features such as /vanish, /tp, /tpcoords, and many more.
